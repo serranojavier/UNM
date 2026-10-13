@@ -1,10 +1,14 @@
 # User-specific IDE state
 **/.idea/
 **/xcuserdata/
+**/*.iml
 
 # Generated executables
 /cipher/cipher/Cipher
 /project_1/project_1/a.out
+**/*.class
+**/bin/
+**/out/
 
 # Editor swap files
 **/*.swp
