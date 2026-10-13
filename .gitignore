@@ -1,0 +1,10 @@
+# User-specific IDE state
+**/.idea/
+**/xcuserdata/
+
+# Generated executables
+/cipher/cipher/Cipher
+/project_1/project_1/a.out
+
+# Editor swap files
+**/*.swp
